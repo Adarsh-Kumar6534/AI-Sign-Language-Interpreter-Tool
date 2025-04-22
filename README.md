@@ -54,8 +54,8 @@ We welcome contributions to enhance this tool! Please follow these steps:
 
 ## Contributors
 - **Adarsh Kumar** - Project Lead & Developer ([Adarsh-Kumar6534](https://github.com/Adarsh-Kumar6534)) - adarshsingh6534@gmail.com
-- **Anurag Anand Jha** - Contributor (GitHub: [To be updated])
-- **Sukhpreet Kaur** - Contributor (GitHub: [To be updated])
+- **Anurag Anand Jha** 
+- **Sukhpreet Kaur** 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
